@@ -152,17 +152,23 @@ Deploy Predictions via API
 └── README.md
 
 ▶️ Installation & Setup
+
 Clone Repository
+
 git clone <your-github-repo-link>
 
 Create Virtual Environment
+
 python -m venv venv
 
 Activate Environment
+
 Windows
+
 venv\Scripts\activate
 
 Install Dependencies
+
 pip install -r requirements.txt
 
 ▶️ Run Notebook
