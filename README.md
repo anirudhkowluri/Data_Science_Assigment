@@ -104,6 +104,7 @@ Validation Data → Last 56 days (8 weeks)
 The forecasting system is deployed using FastAPI.
 
 Run API
+
 uvicorn app:app --reload
 
 🌐 API Endpoints
