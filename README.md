@@ -1,4 +1,5 @@
 Sales Forecasting System using SARIMA, Prophet, XGBoost & LSTM
+
 📌 Project Overview
 
 This project is an end-to-end time series forecasting system developed to predict the next 8 weeks of sales for each state using historical sales data.
@@ -72,6 +73,7 @@ Lag Features
 lag_1
 lag_7
 lag_30
+
 Rolling Statistics
 Rolling Mean (7 days)
 Rolling Standard Deviation (7 days)
@@ -129,6 +131,7 @@ Response:
   "best_model": "XGBoost",
   "rmse": 1234.56
 }
+
 📊 Project Workflow
 Load Dataset
 Data Cleaning & Preprocessing
@@ -151,11 +154,14 @@ Deploy Predictions via API
 ▶️ Installation & Setup
 Clone Repository
 git clone <your-github-repo-link>
+
 Create Virtual Environment
 python -m venv venv
+
 Activate Environment
 Windows
 venv\Scripts\activate
+
 Install Dependencies
 pip install -r requirements.txt
 
