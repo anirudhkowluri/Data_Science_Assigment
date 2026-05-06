@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+prophet
+tensorflow
+statsmodels
+fastapi
+uvicorn[standard]
+openpyxl
+holidays
+joblib
+streamlit
